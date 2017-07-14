@@ -1,2 +1,4 @@
-# tutorial-github
-Repo belajar github
+# Tutorial Github
+Repository Belajar Github
+
+Ini merupakan tutorial belajar github
